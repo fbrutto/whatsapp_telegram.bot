@@ -1,12 +1,13 @@
-$ virtualenv -p python3 venv
-$ . venv/bin/activate
-$ pip install -r requirements.txt
-$ WAT_CONF=path_to_conf_file python watbridge.py
-$ pip install -u https://github.com/tawanda/yowsup
-
 blinker==1.4
 pyTelegramBotAPI==2.1.7
 six==1.10.0
 tinydb==3.2.1
 tinydb-smartcache==1.0.2
 yowsup2==2.5.0
+
+$ virtualenv -p python3 venv
+$ . venv/bin/activate
+$ pip install -r requirements.txt
+$ WAT_CONF=path_to_conf_file python watbridge.py
+$ pip install -u https://github.com/tawanda/yowsup
+
