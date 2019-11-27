@@ -1,7 +1,7 @@
-$ pip install -U git+https://github.com/tawanda/yowsup.git
+$ pip install  git+https://github.com/tawanda/yowsup.git
 $ virtualenv -p python3 venv
 $ . venv/bin/activate
-$ pip  install r, --requirement requirements.txt
+$ pip  install requirements.txt
 $ WAT_CONF=path_to_conf_file python watbridge.py
 
 
