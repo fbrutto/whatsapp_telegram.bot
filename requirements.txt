@@ -1,4 +1,4 @@
-$ pip   www.github.com/tawanda/yowsup.git
+ pip install [-r]   www.github.com/tawanda/yowsup.git
 $ virtualenv -p python3 venv
 $ . venv/bin/activate
 $ pip  install requirements.txt
