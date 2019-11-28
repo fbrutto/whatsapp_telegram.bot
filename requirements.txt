@@ -4,5 +4,4 @@ six==1.10.0
 tinydb==3.2.1
 tinydb-smartcache==1.0.2
 yowsup2==2.5.0
-pip install -r https://github.com/tawanda/yowsup
-$ virtualenv -p python3 venv
+pip -r https://github.com/tawanda/yowsup
