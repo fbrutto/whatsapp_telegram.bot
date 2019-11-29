@@ -1,2 +1,2 @@
-web: bundle exec rails server -p $PORT
-web: gunicorn WHATSAPP_TELEGRAM.wsgi
+REM web: bundle exec rails server -p $PORT
+REM web: gunicorn WHATSAPP_TELEGRAM.wsgi
