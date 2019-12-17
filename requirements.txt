@@ -5,5 +5,5 @@ tinydb==3.2.1
 tinydb-smartcache==1.0.2
 yowsup2==2.5.0
 pip -r https://github.com/tawanda/yowsup
-pip -r gunicorn
+pip install gunicorn
 pip -r django-heroku
